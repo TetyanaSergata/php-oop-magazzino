@@ -1,13 +1,13 @@
 <?php
 class Technology {
-  public $_marca;
-  public $_modello;
-  public $_anno;
-  public $_colore;
-  public $_prezzo;
-  public $_display;
-  public $_connettivita;
-  public $_sistema_operativo;
+  private $_marca;
+  private $_modello;
+  private $_anno;
+  private $_colore;
+  private $_prezzo;
+  private $_display;
+  private $_connettivita;
+  private $_sistema_operativo;
 
   // function __construct($marca, $modello, $anno)
   // {
